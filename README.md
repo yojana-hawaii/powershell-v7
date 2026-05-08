@@ -1,7 +1,11 @@
 # Installations
 
 ### Download
-* git scm for windows
+```powershell
+winget install --id Git.Git -e --source winget
+
+https://git-scm.com/install/windows
+```
 
 ### App Stores
 * Windows App Store - PowerShell-v7 & VSCode
